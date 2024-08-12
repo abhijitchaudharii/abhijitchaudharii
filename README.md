@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋 Hi there! I'm a recent Bachelor of Engineering graduate in Computer Science with a passion for coding and problem-solving. My skills include Java, MySQL, Spring Boot, JavaScript, HTML, and CSS. I'm constantly exploring new technologies and building projects to expand my knowledge. Let's connect and create something amazing together!
 
 <!--
 **abhijitchaudharii/abhijitchaudharii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
