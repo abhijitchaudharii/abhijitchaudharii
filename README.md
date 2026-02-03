@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there , I'm Abhijit Chaudhari 👦<br>A passionate Full Stack Web Developer 🎯from India.<br>React.js | JavaScript | HTML5 | CSS3 | Tailwind CSS
+# Hi there , I'm Abhijit Chaudhari 👦<br>A passionate Full Stack Web Developer 🎯from India.<br>React.js | JavaScript | HTML5 | CSS3 | Tailwind CSS
 
 
 ## 🌐 Socials:
